@@ -1,26 +1,354 @@
-2026-03-14 10:59:57,286 - Moved: 0x0404.ini to Miscellaneous
-2026-03-14 10:59:57,288 - Moved: 0x0407.ini to Miscellaneous
-2026-03-14 10:59:57,289 - Moved: 0x0409.ini to Miscellaneous
-2026-03-14 10:59:57,290 - Moved: 0x040a.ini to Miscellaneous
-2026-03-14 10:59:57,291 - Moved: 0x040c.ini to Miscellaneous
-2026-03-14 10:59:57,292 - Moved: 0x0410.ini to Miscellaneous
-2026-03-14 10:59:57,293 - Moved: 0x0411.ini to Miscellaneous
-2026-03-14 10:59:57,294 - Moved: 0x0412.ini to Miscellaneous
-2026-03-14 10:59:57,294 - Moved: 0x0416.ini to Miscellaneous
-2026-03-14 10:59:57,295 - Moved: 0x0804.ini to Miscellaneous
-2026-03-14 10:59:57,296 - Moved: 1028.mst to Miscellaneous
-2026-03-14 10:59:57,297 - Moved: 1031.mst to Miscellaneous
-2026-03-14 10:59:57,298 - Moved: 1033.mst to Miscellaneous
-2026-03-14 10:59:57,299 - Moved: 1034.mst to Miscellaneous
-2026-03-14 10:59:57,300 - Moved: 1036.mst to Miscellaneous
-2026-03-14 10:59:57,301 - Moved: 1040.mst to Miscellaneous
-2026-03-14 10:59:57,301 - Moved: 1041.mst to Miscellaneous
-2026-03-14 10:59:57,302 - Moved: 1042.mst to Miscellaneous
-2026-03-14 10:59:57,303 - Moved: 1046.mst to Miscellaneous
-2026-03-14 10:59:57,304 - Moved: 2052.mst to Miscellaneous
-2026-03-14 10:59:57,305 - Moved: DB.cab to Miscellaneous
-2026-03-14 10:59:57,306 - Skipped: ISSetupPrerequisites (not a file)
-2026-03-14 10:59:57,307 - Moved: Oracle Database 21c Express Edition.msi to Miscellaneous
-2026-03-14 10:59:57,308 - Moved: setup.exe to Executable Files
-2026-03-14 10:59:57,308 - Moved: Setup.ini to Miscellaneous
-2026-03-14 10:59:57,310 - Moved: XEInstall.rsp to Miscellaneous
+2026-03-14 12:49:42,461 - Moved: 108054022.pdf to Document Files
+2026-03-14 12:49:42,462 - Moved: 12+Rules+to+Learn+to+Code+eBook-Copyright+App+Brewery.pdf to Document Files
+2026-03-14 12:49:42,465 - Moved: 124B1C083 _Shruti Jahagirdar .pdf to Document Files
+2026-03-14 12:49:42,466 - Moved: 124B1C083_SocialMedia.docx to Document Files
+2026-03-14 12:49:42,467 - Moved: 1753528964967newpt-receipt-1753528964831.pdf to Document Files
+2026-03-14 12:49:42,467 - Moved: 2024ENGG_CAP1_CutOff.pdf to Document Files
+2026-03-14 12:49:42,468 - Moved: 2309_College counselor System_Draft CS_17.02.2024 (1).pdf to Document Files
+2026-03-14 12:49:42,469 - Moved: 2309_College counselor System_Draft CS_17.02.2024.pdf to Document Files
+2026-03-14 12:49:42,470 - Moved: 2309_College counselor System_Drawings_17.02.pdf to Document Files
+2026-03-14 12:49:42,471 - Moved: 5-Business-Story-Types.pptx (1).pdf to Document Files
+2026-03-14 12:49:42,472 - Moved: 75 Days Placement Preparation Study Plan.pdf to Document Files
+2026-03-14 12:49:42,473 - Moved: A1-Intro_AnyLogic2024 (1).pdf to Document Files
+2026-03-14 12:49:42,473 - Moved: A1-Intro_AnyLogic2024.pdf to Document Files
+2026-03-14 12:49:42,474 - Moved: acm_registered.pdf to Document Files
+2026-03-14 12:49:42,502 - Moved: acm_registration.pdf to Document Files
+2026-03-14 12:49:42,503 - Moved: Advancements and Applications of EEG in Gustatory Perception.pdf to Document Files
+2026-03-14 12:49:42,504 - Moved: anylogic_in_3_days.pdf to Document Files
+2026-03-14 12:49:42,505 - Moved: Baby Shower Dance  Dil Se Bandhi Ek Dor X Aashiyan X Dhiktana  Easy Steps.mp3 to Audio Files
+2026-03-14 12:49:42,506 - Moved: BCI_Survey.pdf to Document Files
+2026-03-14 12:49:42,507 - Moved: Bhargavi_Jahagirdar_Resume.pdf to Document Files
+2026-03-14 12:49:42,507 - Moved: BITS_VSP_ReferenceLetter_PCCoE.docx.pdf to Document Files
+2026-03-14 12:49:42,508 - Moved: Black White Modern Science Themed Poster.pdf to Document Files
+2026-03-14 12:49:42,509 - Moved: BSFE_FA2_083_084.pdf to Document Files
+2026-03-14 12:49:42,509 - Moved: BST Question Bank Unit 1 & 2.docx.pdf to Document Files
+2026-03-14 12:49:42,511 - Moved: BST Question Bank Unit 3 & 4.pdf to Document Files
+2026-03-14 12:49:42,511 - Moved: Codes.docx to Document Files
+2026-03-14 12:49:42,512 - Moved: conference-template-a4 (3) 1.pdf to Document Files
+2026-03-14 12:49:42,513 - Moved: Copy of YOUNG RESEARCHERS’ CONFERENCE Format.pptx.pdf to Document Files
+2026-03-14 12:49:42,514 - Moved: COVID-19 vaccine willingness and hesitancy among residents in Qatar  a quantitative analysis based on machine learning.pdf to Document Files
+2026-03-14 12:49:42,515 - Moved: CP Report_ Hangman Game (1).pdf to Document Files
+2026-03-14 12:49:42,516 - Moved: CP Report_ Hangman Game.docx to Document Files
+2026-03-14 12:49:42,518 - Moved: CP Report_ Hangman Game.pdf to Document Files
+2026-03-14 12:49:42,519 - Moved: Cuts 1.mp4 to Video Files
+2026-03-14 12:49:42,519 - Moved: Cuts 2.mp4 to Video Files
+2026-03-14 12:49:42,520 - Moved: Cuts 3.mp4 to Video Files
+2026-03-14 12:49:42,521 - Moved: Cuts 5.mp4 to Video Files
+2026-03-14 12:49:42,522 - Moved: Data Structures & AlgorithmsData structures,Set -I.pdf to Document Files
+2026-03-14 12:49:42,523 - Moved: Data_Science_Clean_Question_Bank.pdf to Document Files
+2026-03-14 12:49:42,524 - Moved: Data_Science_Question_Bank_Improved_Unit1.pdf to Document Files
+2026-03-14 12:49:42,525 - Moved: DFS AND BFS .pdf to Document Files
+2026-03-14 12:49:42,525 - Moved: dm.pdf to Document Files
+2026-03-14 12:49:42,526 - Moved: DM_FA2.pdf to Document Files
+2026-03-14 12:49:42,527 - Moved: DocScanner 06-Sep-2025 3-58 pm.pdf to Document Files
+2026-03-14 12:49:42,527 - Moved: drive-download-20250825T140457Z-1-001.zip to Archive Files
+2026-03-14 12:49:42,544 - Moved: drive-download-20250825T140457Z-1-002.zip to Archive Files
+2026-03-14 12:49:42,546 - Moved: DSA Question Bank.pdf to Document Files
+2026-03-14 12:49:42,546 - Skipped: eclipse-cpp-kepler-SR2-win32 (not a file)
+2026-03-14 12:49:42,547 - Moved: eclipse-cpp-kepler-SR2-win32.zip to Archive Files
+2026-03-14 12:49:42,549 - Moved: EEG-based Brain Computer Interfaces for food craving detection and diabetic care..pdf to Document Files
+2026-03-14 12:49:42,549 - Skipped: Executable Files (not a file)
+2026-03-14 12:49:42,549 - Moved: FA 2  SY MDM.pdf to Document Files
+2026-03-14 12:49:42,550 - Moved: Fa1DM_ShrutiJ.pdf to Document Files
+2026-03-14 12:49:42,551 - Moved: FEATURE BREAKDOWN.docx to Document Files
+2026-03-14 12:49:42,551 - Moved: Figma Master Class Assets.zip to Archive Files
+2026-03-14 12:49:42,552 - Moved: FLOATCHAT_FINAL.pptx.pdf to Document Files
+2026-03-14 12:49:42,553 - Moved: Format_for_Attending_International_Conference.docx to Document Files
+2026-03-14 12:49:42,554 - Moved: Form_QR (1).pdf to Document Files
+2026-03-14 12:49:42,554 - Moved: Form_QR.pdf to Document Files
+2026-03-14 12:49:42,555 - Moved: Form_QR_final.pdf to Document Files
+2026-03-14 12:49:42,557 - Moved: HACK MATRIX 4.0 Rule Book.pdf to Document Files
+2026-03-14 12:49:42,558 - Moved: HackOverflow 2.0_Report.pdf to Document Files
+2026-03-14 12:49:42,559 - Moved: Harmonic_Analysis.pdf to Document Files
+2026-03-14 12:49:42,559 - Moved: ilide.info-trees-data-structure-17-pr_bd422771475d160864e206c2d09f1488.pdf to Document Files
+2026-03-14 12:49:42,560 - Moved: ilovepdf_pages-to-jpg (1).zip to Archive Files
+2026-03-14 12:49:42,561 - Moved: ilovepdf_pages-to-jpg (2).zip to Archive Files
+2026-03-14 12:49:42,562 - Moved: ilovepdf_pages-to-jpg.zip to Archive Files
+2026-03-14 12:49:42,562 - Skipped: Image Files (not a file)
+2026-03-14 12:49:42,563 - Moved: Introduction to data.pdf to Document Files
+2026-03-14 12:49:42,563 - Moved: invoice-Shruti-Jahagirdar-KL272MS-EFDJBAI-251119-212522-1084.pdf to Document Files
+2026-03-14 12:49:42,564 - Moved: JAVA.docx to Document Files
+2026-03-14 12:49:42,566 - Moved: July_College_Glowup_Plan (1).pdf to Document Files
+2026-03-14 12:49:42,567 - Moved: July_College_Glowup_Plan.pdf to Document Files
+2026-03-14 12:49:42,568 - Moved: Lecture 1 Fuzzy If else rule.pdf to Document Files
+2026-03-14 12:49:42,568 - Moved: lost canvas .pdf to Document Files
+2026-03-14 12:49:42,569 - Moved: MemoryWall2026 (1).pdf to Document Files
+2026-03-14 12:49:42,570 - Moved: MemoryWall2026 (2).pdf to Document Files
+2026-03-14 12:49:42,570 - Moved: MemoryWall2026.pdf to Document Files
+2026-03-14 12:49:42,571 - Moved: mingw-w64-v11.0.0.zip to Archive Files
+2026-03-14 12:49:42,571 - Skipped: Miscellaneous (not a file)
+2026-03-14 12:49:42,572 - Moved: ML QB_Unit 3.docx.pdf to Document Files
+2026-03-14 12:49:42,573 - Moved: ML QB_Unit 4.docx.pdf to Document Files
+2026-03-14 12:49:42,575 - Moved: ModelEvaluation_Analysis.pdf to Document Files
+2026-03-14 12:49:42,575 - Moved: Naive_Bayes_Case_Study.pdf to Document Files
+2026-03-14 12:49:42,576 - Moved: Neural Networks For Control (1).pdf to Document Files
+2026-03-14 12:49:42,577 - Moved: Neural Networks For Control.pdf to Document Files
+2026-03-14 12:49:42,577 - Moved: Neuroadaptive systems for dietary regulation_FINAL.docx.pdf to Document Files
+2026-03-14 12:49:42,578 - Moved: OOP Oral questions for reference.pdf to Document Files
+2026-03-14 12:49:42,578 - Moved: OracleXE213_Win64.zip to Archive Files
+2026-03-14 12:49:42,579 - Moved: owasp_full_prep_updated.pdf to Document Files
+2026-03-14 12:49:42,580 - Moved: owasp_prep_shruti.pdf to Document Files
+2026-03-14 12:49:42,581 - Moved: Patent_Proposal.pptx.pdf to Document Files
+2026-03-14 12:49:42,582 - Moved: PAWAR.pdf to Document Files
+2026-03-14 12:49:42,583 - Moved: PAWAR_application.pdf to Document Files
+2026-03-14 12:49:42,584 - Moved: PAWAR_CAP1.pdf to Document Files
+2026-03-14 12:49:42,584 - Moved: PAWAR_CAP2LISTCLG.pdf to Document Files
+2026-03-14 12:49:42,585 - Moved: PAWAR_compressed.pdf to Document Files
+2026-03-14 12:49:42,585 - Skipped: php-8.4.5 (not a file)
+2026-03-14 12:49:42,586 - Moved: php-8.4.5-Win32-vs17-x64.zip to Archive Files
+2026-03-14 12:49:42,587 - Moved: php-8.4.5.tar.gz to Archive Files
+2026-03-14 12:49:42,587 - Moved: Pink Blob Organic Stationary A4 Document.pdf to Document Files
+2026-03-14 12:49:42,588 - Moved: Placement Cracker Sheet by Talent Battle - Mandatory Content.pdf to Document Files
+2026-03-14 12:49:42,589 - Moved: prb3.pdf to Document Files
+2026-03-14 12:49:42,593 - Moved: prb33.pdf to Document Files
+2026-03-14 12:49:42,593 - Skipped: Presentation Files (not a file)
+2026-03-14 12:49:42,593 - Skipped: Programming Files (not a file)
+2026-03-14 12:49:42,595 - Moved: PUNE ENGINEERING COLLEGES 2024.pdf to Document Files
+2026-03-14 12:49:42,595 - Moved: QB for all Unit.pdf to Document Files
+2026-03-14 12:49:42,596 - Moved: QB_DS non-repeated.pdf to Document Files
+2026-03-14 12:49:42,597 - Moved: Question Bank  and Model Answers BSFE Unit 4 (1).pdf to Document Files
+2026-03-14 12:49:42,597 - Moved: Question Bank  and Model Answers BSFE Unit 4.pdf to Document Files
+2026-03-14 12:49:42,598 - Moved: Question Bank for S.Y.MDM Foundation of Digital Marketing Final.pdf to Document Files
+2026-03-14 12:49:42,599 - Moved: Question_bank_DS_updated.pdf to Document Files
+2026-03-14 12:49:42,600 - Moved: Report FA2 SDAUR (1).pdf to Document Files
+2026-03-14 12:49:42,601 - Moved: Report FA2 SDAUR (2).pdf to Document Files
+2026-03-14 12:49:42,602 - Moved: Report FA2 SDAUR (3).pdf to Document Files
+2026-03-14 12:49:42,602 - Moved: Report FA2 SDAUR.pdf to Document Files
+2026-03-14 12:49:42,603 - Moved: Report_ Datathon 2026.docx to Document Files
+2026-03-14 12:49:42,615 - Moved: S1a-SimIntro2025.pdf to Document Files
+2026-03-14 12:49:42,617 - Moved: S1b-FundasofDES.pdf to Document Files
+2026-03-14 12:49:42,637 - Moved: Sample Report for FA2 Activity.docx to Document Files
+2026-03-14 12:49:42,639 - Moved: SDAUR_QB.docx to Document Files
+2026-03-14 12:49:42,641 - Moved: SE question BANK (2).docx to Document Files
+2026-03-14 12:49:42,641 - Moved: SE SA QB all units answers.pdf to Document Files
+2026-03-14 12:49:42,642 - Moved: sem3.pdf to Document Files
+2026-03-14 12:49:42,643 - Moved: Shruti Jahagirdar  (1).pdf to Document Files
+2026-03-14 12:49:42,644 - Moved: Shruti Jahagirdar - PPT Sample File - BST Case Study (1) (1).pdf to Document Files
+2026-03-14 12:49:42,645 - Moved: Shruti Jahagirdar - PPT Sample File - BST Case Study (1).pdf to Document Files
+2026-03-14 12:49:42,645 - Moved: Shruti Jahagirdar .pdf to Document Files
+2026-03-14 12:49:42,646 - Moved: Shruti Jahagirdar.pdf to Document Files
+2026-03-14 12:49:42,647 - Moved: Shruti Vasudev Jahagirdar (1).pdf to Document Files
+2026-03-14 12:49:42,648 - Moved: Shruti Vasudev Jahagirdar.pdf to Document Files
+2026-03-14 12:49:42,649 - Moved: Shruti_Jahagirdar_Resume (1).docx to Document Files
+2026-03-14 12:49:42,650 - Moved: Shruti_Jahagirdar_Resume.docx to Document Files
+2026-03-14 12:49:42,651 - Moved: Shruti_Resume.docx to Document Files
+2026-03-14 12:49:42,651 - Moved: Shruti_Resume_Builder_Guide.docx to Document Files
+2026-03-14 12:49:42,652 - Moved: Shruti_Resume_Weekly_Conquer_Combined.docx to Document Files
+2026-03-14 12:49:42,653 - Moved: Shruti_SY_Tracker_Week_Template.docx to Document Files
+2026-03-14 12:49:42,654 - Moved: Shruti_Weekly_Conquer_Plan.docx to Document Files
+2026-03-14 12:49:42,654 - Moved: SIH2025-IDEA-Presentation-Format.pdf to Document Files
+2026-03-14 12:49:42,655 - Moved: SIH_Finalised.pdf to Document Files
+2026-03-14 12:49:42,656 - Moved: SN_Cureus_templet_for_CS.docx.pdf to Document Files
+2026-03-14 12:49:42,657 - Moved: SOP_Shruti_BITS.docx to Document Files
+2026-03-14 12:49:42,657 - Skipped: Spreadsheet Files (not a file)
+2026-03-14 12:49:42,658 - Moved: SY SDAUR_Question Bank_All Units.pdf to Document Files
+2026-03-14 12:49:42,659 - Moved: SY-Btech-NEP-2025-26.pdf to Document Files
+2026-03-14 12:49:42,660 - Moved: sy-fees-receipt.pdf to Document Files
+2026-03-14 12:49:42,660 - Moved: Syllabus+for+100+Days+of+Python (1).pdf to Document Files
+2026-03-14 12:49:42,661 - Moved: Syllabus+for+100+Days+of+Python.pdf to Document Files
+2026-03-14 12:49:42,662 - Moved: Syllabus-Digital-Marketing.pdf to Document Files
+2026-03-14 12:49:42,662 - Moved: Syllabus-IOT.pdf to Document Files
+2026-03-14 12:49:42,663 - Moved: Technology-Infusion-Grand-Challenge-2026-Brochure.pdf to Document Files
+2026-03-14 12:49:42,664 - Skipped: Text Files (not a file)
+2026-03-14 12:49:42,665 - Moved: topperworld_in.pdf to Document Files
+2026-03-14 12:49:42,666 - Moved: U.V CS8391 Data Structures.pdf to Document Files
+2026-03-14 12:49:42,666 - Moved: UCEF.pdf to Document Files
+2026-03-14 12:49:42,667 - Moved: UG-ASH-AIML-24-25.pdf to Document Files
+2026-03-14 12:49:42,667 - Skipped: UHV clips-20250823T064607Z-1-001 (not a file)
+2026-03-14 12:49:42,668 - Moved: UHV clips-20250823T064607Z-1-001.zip to Archive Files
+2026-03-14 12:49:42,670 - Moved: Unit 1 & Unit 2 Business Storytelling.pptx.pdf to Document Files
+2026-03-14 12:49:42,671 - Moved: Unit 2_ Management_Trends_and_Practices_PPT_Dr. Brijesh.pdf to Document Files
+2026-03-14 12:49:42,672 - Moved: Unit 2_Theory.pdf to Document Files
+2026-03-14 12:49:42,672 - Moved: Unit 3 NOTES.pdf to Document Files
+2026-03-14 12:49:42,673 - Moved: Unit 3 _ Business Economics – The Road Map.pdf to Document Files
+2026-03-14 12:49:42,674 - Moved: UNIT 3.pdf to Document Files
+2026-03-14 12:49:42,675 - Moved: unit 6_1to9_22to27.pdf to Document Files
+2026-03-14 12:49:42,676 - Moved: Unit-1 Question Bank For NN.pdf to Document Files
+2026-03-14 12:49:42,677 - Moved: unit5.pdf to Document Files
+2026-03-14 12:49:42,677 - Moved: unit6_10to21.pdf to Document Files
+2026-03-14 12:49:42,678 - Moved: Untitled document.pdf to Document Files
+2026-03-14 12:49:42,679 - Moved: Vaccine Hesitancy YRC'25 Research Paper.docx to Document Files
+2026-03-14 12:49:42,679 - Moved: Vaccine Hesitancy YRC'25 Research Paper.docx (1).pdf to Document Files
+2026-03-14 12:49:42,680 - Moved: Vaccine Hesitancy YRC'25 Research Paper.docx.pdf to Document Files
+2026-03-14 12:49:42,681 - Moved: Vaccine Hesitancy YRC'25 Research Paper_Final.docx.pdf to Document Files
+2026-03-14 12:49:42,682 - Moved: Vaccine_Hesitancy_Prediction_Based_on_Machine_Lear.pdf to Document Files
+2026-03-14 12:49:42,683 - Moved: vensim.pdf to Document Files
+2026-03-14 12:49:42,684 - Moved: Vensim_PLE_tutorial_Rev_3.zip to Archive Files
+2026-03-14 12:49:42,684 - Skipped: Video Files (not a file)
+2026-03-14 12:49:42,685 - Moved: YRC_VaccineHesitancy.pptx.pdf to Document Files
+2026-03-14 12:49:42,685 - Moved: YRC_VaccineHesitancy_Final!.pptx (1).pdf to Document Files
+2026-03-14 12:49:42,686 - Moved: YRC_VaccineHesitancy_Final!.pptx.pdf to Document Files
+2026-03-14 12:49:42,687 - Moved: YRC_VaccineHesitancy_Final.pptx (1).pdf to Document Files
+2026-03-14 12:49:42,687 - Moved: YRC_VaccineHesitancy_Final.pptx.pdf to Document Files
+2026-03-14 12:49:42,688 - Moved: [BDA]bjahagir_MiniProject.docx to Document Files
+2026-03-14 12:50:08,440 - Restored: drive-download-20250825T140457Z-1-001.zip to Archive Files
+2026-03-14 12:50:08,441 - Restored: drive-download-20250825T140457Z-1-002.zip to Archive Files
+2026-03-14 12:50:08,441 - Restored: eclipse-cpp-kepler-SR2-win32.zip to Archive Files
+2026-03-14 12:50:08,442 - Restored: Figma Master Class Assets.zip to Archive Files
+2026-03-14 12:50:08,443 - Restored: ilovepdf_pages-to-jpg (1).zip to Archive Files
+2026-03-14 12:50:08,443 - Restored: ilovepdf_pages-to-jpg (2).zip to Archive Files
+2026-03-14 12:50:08,444 - Restored: ilovepdf_pages-to-jpg.zip to Archive Files
+2026-03-14 12:50:08,452 - Restored: mingw-w64-v11.0.0.zip to Archive Files
+2026-03-14 12:50:08,452 - Restored: OracleXE213_Win64.zip to Archive Files
+2026-03-14 12:50:08,453 - Restored: php-8.4.5-Win32-vs17-x64.zip to Archive Files
+2026-03-14 12:50:08,454 - Restored: php-8.4.5.tar.gz to Archive Files
+2026-03-14 12:50:08,454 - Restored: UHV clips-20250823T064607Z-1-001.zip to Archive Files
+2026-03-14 12:50:08,455 - Restored: Vensim_PLE_tutorial_Rev_3.zip to Archive Files
+2026-03-14 12:50:08,455 - Removed folder: Archive Files
+2026-03-14 12:50:08,456 - Restored: Baby Shower Dance  Dil Se Bandhi Ek Dor X Aashiyan X Dhiktana  Easy Steps.mp3 to Audio Files
+2026-03-14 12:50:08,457 - Removed folder: Audio Files
+2026-03-14 12:50:08,458 - Restored: 108054022.pdf to Document Files
+2026-03-14 12:50:08,458 - Restored: 12+Rules+to+Learn+to+Code+eBook-Copyright+App+Brewery.pdf to Document Files
+2026-03-14 12:50:08,459 - Restored: 124B1C083 _Shruti Jahagirdar .pdf to Document Files
+2026-03-14 12:50:08,460 - Restored: 124B1C083_SocialMedia.docx to Document Files
+2026-03-14 12:50:08,460 - Restored: 1753528964967newpt-receipt-1753528964831.pdf to Document Files
+2026-03-14 12:50:08,461 - Restored: 2024ENGG_CAP1_CutOff.pdf to Document Files
+2026-03-14 12:50:08,462 - Restored: 2309_College counselor System_Draft CS_17.02.2024 (1).pdf to Document Files
+2026-03-14 12:50:08,463 - Restored: 2309_College counselor System_Draft CS_17.02.2024.pdf to Document Files
+2026-03-14 12:50:08,464 - Restored: 2309_College counselor System_Drawings_17.02.pdf to Document Files
+2026-03-14 12:50:08,465 - Restored: 5-Business-Story-Types.pptx (1).pdf to Document Files
+2026-03-14 12:50:08,466 - Restored: 75 Days Placement Preparation Study Plan.pdf to Document Files
+2026-03-14 12:50:08,466 - Restored: A1-Intro_AnyLogic2024 (1).pdf to Document Files
+2026-03-14 12:50:08,467 - Restored: A1-Intro_AnyLogic2024.pdf to Document Files
+2026-03-14 12:50:08,468 - Restored: acm_registered.pdf to Document Files
+2026-03-14 12:50:08,469 - Restored: acm_registration.pdf to Document Files
+2026-03-14 12:50:08,470 - Restored: Advancements and Applications of EEG in Gustatory Perception.pdf to Document Files
+2026-03-14 12:50:08,470 - Restored: anylogic_in_3_days.pdf to Document Files
+2026-03-14 12:50:08,471 - Restored: BCI_Survey.pdf to Document Files
+2026-03-14 12:50:08,472 - Restored: Bhargavi_Jahagirdar_Resume.pdf to Document Files
+2026-03-14 12:50:08,473 - Restored: BITS_VSP_ReferenceLetter_PCCoE.docx.pdf to Document Files
+2026-03-14 12:50:08,474 - Restored: Black White Modern Science Themed Poster.pdf to Document Files
+2026-03-14 12:50:08,474 - Restored: BSFE_FA2_083_084.pdf to Document Files
+2026-03-14 12:50:08,475 - Restored: BST Question Bank Unit 1 & 2.docx.pdf to Document Files
+2026-03-14 12:50:08,476 - Restored: BST Question Bank Unit 3 & 4.pdf to Document Files
+2026-03-14 12:50:08,476 - Restored: Codes.docx to Document Files
+2026-03-14 12:50:08,477 - Restored: conference-template-a4 (3) 1.pdf to Document Files
+2026-03-14 12:50:08,478 - Restored: Copy of YOUNG RESEARCHERS’ CONFERENCE Format.pptx.pdf to Document Files
+2026-03-14 12:50:08,478 - Restored: COVID-19 vaccine willingness and hesitancy among residents in Qatar  a quantitative analysis based on machine learning.pdf to Document Files
+2026-03-14 12:50:08,479 - Restored: CP Report_ Hangman Game (1).pdf to Document Files
+2026-03-14 12:50:08,480 - Restored: CP Report_ Hangman Game.docx to Document Files
+2026-03-14 12:50:08,480 - Restored: CP Report_ Hangman Game.pdf to Document Files
+2026-03-14 12:50:08,481 - Restored: Data Structures & AlgorithmsData structures,Set -I.pdf to Document Files
+2026-03-14 12:50:08,482 - Restored: Data_Science_Clean_Question_Bank.pdf to Document Files
+2026-03-14 12:50:08,483 - Restored: Data_Science_Question_Bank_Improved_Unit1.pdf to Document Files
+2026-03-14 12:50:08,484 - Restored: DFS AND BFS .pdf to Document Files
+2026-03-14 12:50:08,484 - Restored: dm.pdf to Document Files
+2026-03-14 12:50:08,485 - Restored: DM_FA2.pdf to Document Files
+2026-03-14 12:50:08,486 - Restored: DocScanner 06-Sep-2025 3-58 pm.pdf to Document Files
+2026-03-14 12:50:08,486 - Restored: DSA Question Bank.pdf to Document Files
+2026-03-14 12:50:08,487 - Restored: EEG-based Brain Computer Interfaces for food craving detection and diabetic care..pdf to Document Files
+2026-03-14 12:50:08,488 - Restored: FA 2  SY MDM.pdf to Document Files
+2026-03-14 12:50:08,489 - Restored: Fa1DM_ShrutiJ.pdf to Document Files
+2026-03-14 12:50:08,490 - Restored: FEATURE BREAKDOWN.docx to Document Files
+2026-03-14 12:50:08,491 - Restored: FLOATCHAT_FINAL.pptx.pdf to Document Files
+2026-03-14 12:50:08,492 - Restored: Format_for_Attending_International_Conference.docx to Document Files
+2026-03-14 12:50:08,492 - Restored: Form_QR (1).pdf to Document Files
+2026-03-14 12:50:08,493 - Restored: Form_QR.pdf to Document Files
+2026-03-14 12:50:08,493 - Restored: Form_QR_final.pdf to Document Files
+2026-03-14 12:50:08,494 - Restored: HACK MATRIX 4.0 Rule Book.pdf to Document Files
+2026-03-14 12:50:08,494 - Restored: HackOverflow 2.0_Report.pdf to Document Files
+2026-03-14 12:50:08,495 - Restored: Harmonic_Analysis.pdf to Document Files
+2026-03-14 12:50:08,495 - Restored: ilide.info-trees-data-structure-17-pr_bd422771475d160864e206c2d09f1488.pdf to Document Files
+2026-03-14 12:50:08,496 - Restored: Introduction to data.pdf to Document Files
+2026-03-14 12:50:08,497 - Restored: invoice-Shruti-Jahagirdar-KL272MS-EFDJBAI-251119-212522-1084.pdf to Document Files
+2026-03-14 12:50:08,497 - Restored: JAVA.docx to Document Files
+2026-03-14 12:50:08,498 - Restored: July_College_Glowup_Plan (1).pdf to Document Files
+2026-03-14 12:50:08,499 - Restored: July_College_Glowup_Plan.pdf to Document Files
+2026-03-14 12:50:08,500 - Restored: Lecture 1 Fuzzy If else rule.pdf to Document Files
+2026-03-14 12:50:08,501 - Restored: lost canvas .pdf to Document Files
+2026-03-14 12:50:08,501 - Restored: MemoryWall2026 (1).pdf to Document Files
+2026-03-14 12:50:08,502 - Restored: MemoryWall2026 (2).pdf to Document Files
+2026-03-14 12:50:08,523 - Restored: MemoryWall2026.pdf to Document Files
+2026-03-14 12:50:08,524 - Restored: ML QB_Unit 3.docx.pdf to Document Files
+2026-03-14 12:50:08,525 - Restored: ML QB_Unit 4.docx.pdf to Document Files
+2026-03-14 12:50:08,525 - Restored: ModelEvaluation_Analysis.pdf to Document Files
+2026-03-14 12:50:08,526 - Restored: Naive_Bayes_Case_Study.pdf to Document Files
+2026-03-14 12:50:08,526 - Restored: Neural Networks For Control (1).pdf to Document Files
+2026-03-14 12:50:08,527 - Restored: Neural Networks For Control.pdf to Document Files
+2026-03-14 12:50:08,527 - Restored: Neuroadaptive systems for dietary regulation_FINAL.docx.pdf to Document Files
+2026-03-14 12:50:08,528 - Restored: OOP Oral questions for reference.pdf to Document Files
+2026-03-14 12:50:08,528 - Restored: owasp_full_prep_updated.pdf to Document Files
+2026-03-14 12:50:08,529 - Restored: owasp_prep_shruti.pdf to Document Files
+2026-03-14 12:50:08,530 - Restored: Patent_Proposal.pptx.pdf to Document Files
+2026-03-14 12:50:08,531 - Restored: PAWAR.pdf to Document Files
+2026-03-14 12:50:08,531 - Restored: PAWAR_application.pdf to Document Files
+2026-03-14 12:50:08,532 - Restored: PAWAR_CAP1.pdf to Document Files
+2026-03-14 12:50:08,533 - Restored: PAWAR_CAP2LISTCLG.pdf to Document Files
+2026-03-14 12:50:08,534 - Restored: PAWAR_compressed.pdf to Document Files
+2026-03-14 12:50:08,534 - Restored: Pink Blob Organic Stationary A4 Document.pdf to Document Files
+2026-03-14 12:50:08,535 - Restored: Placement Cracker Sheet by Talent Battle - Mandatory Content.pdf to Document Files
+2026-03-14 12:50:08,535 - Restored: prb3.pdf to Document Files
+2026-03-14 12:50:08,536 - Restored: prb33.pdf to Document Files
+2026-03-14 12:50:08,537 - Restored: PUNE ENGINEERING COLLEGES 2024.pdf to Document Files
+2026-03-14 12:50:08,537 - Restored: QB for all Unit.pdf to Document Files
+2026-03-14 12:50:08,538 - Restored: QB_DS non-repeated.pdf to Document Files
+2026-03-14 12:50:08,538 - Restored: Question Bank  and Model Answers BSFE Unit 4 (1).pdf to Document Files
+2026-03-14 12:50:08,539 - Restored: Question Bank  and Model Answers BSFE Unit 4.pdf to Document Files
+2026-03-14 12:50:08,540 - Restored: Question Bank for S.Y.MDM Foundation of Digital Marketing Final.pdf to Document Files
+2026-03-14 12:50:08,541 - Restored: Question_bank_DS_updated.pdf to Document Files
+2026-03-14 12:50:08,542 - Restored: Report FA2 SDAUR (1).pdf to Document Files
+2026-03-14 12:50:08,542 - Restored: Report FA2 SDAUR (2).pdf to Document Files
+2026-03-14 12:50:08,543 - Restored: Report FA2 SDAUR (3).pdf to Document Files
+2026-03-14 12:50:08,544 - Restored: Report FA2 SDAUR.pdf to Document Files
+2026-03-14 12:50:08,544 - Restored: Report_ Datathon 2026.docx to Document Files
+2026-03-14 12:50:08,556 - Restored: S1a-SimIntro2025.pdf to Document Files
+2026-03-14 12:50:08,557 - Restored: S1b-FundasofDES.pdf to Document Files
+2026-03-14 12:50:08,558 - Restored: Sample Report for FA2 Activity.docx to Document Files
+2026-03-14 12:50:08,559 - Restored: SDAUR_QB.docx to Document Files
+2026-03-14 12:50:08,560 - Restored: SE question BANK (2).docx to Document Files
+2026-03-14 12:50:08,560 - Restored: SE SA QB all units answers.pdf to Document Files
+2026-03-14 12:50:08,561 - Restored: sem3.pdf to Document Files
+2026-03-14 12:50:08,562 - Restored: Shruti Jahagirdar  (1).pdf to Document Files
+2026-03-14 12:50:08,562 - Restored: Shruti Jahagirdar - PPT Sample File - BST Case Study (1) (1).pdf to Document Files
+2026-03-14 12:50:08,563 - Restored: Shruti Jahagirdar - PPT Sample File - BST Case Study (1).pdf to Document Files
+2026-03-14 12:50:08,564 - Restored: Shruti Jahagirdar .pdf to Document Files
+2026-03-14 12:50:08,565 - Restored: Shruti Jahagirdar.pdf to Document Files
+2026-03-14 12:50:08,566 - Restored: Shruti Vasudev Jahagirdar (1).pdf to Document Files
+2026-03-14 12:50:08,567 - Restored: Shruti Vasudev Jahagirdar.pdf to Document Files
+2026-03-14 12:50:08,568 - Restored: Shruti_Jahagirdar_Resume (1).docx to Document Files
+2026-03-14 12:50:08,568 - Restored: Shruti_Jahagirdar_Resume.docx to Document Files
+2026-03-14 12:50:08,569 - Restored: Shruti_Resume.docx to Document Files
+2026-03-14 12:50:08,570 - Restored: Shruti_Resume_Builder_Guide.docx to Document Files
+2026-03-14 12:50:08,570 - Restored: Shruti_Resume_Weekly_Conquer_Combined.docx to Document Files
+2026-03-14 12:50:08,571 - Restored: Shruti_SY_Tracker_Week_Template.docx to Document Files
+2026-03-14 12:50:08,572 - Restored: Shruti_Weekly_Conquer_Plan.docx to Document Files
+2026-03-14 12:50:08,572 - Restored: SIH2025-IDEA-Presentation-Format.pdf to Document Files
+2026-03-14 12:50:08,574 - Restored: SIH_Finalised.pdf to Document Files
+2026-03-14 12:50:08,574 - Restored: SN_Cureus_templet_for_CS.docx.pdf to Document Files
+2026-03-14 12:50:08,575 - Restored: SOP_Shruti_BITS.docx to Document Files
+2026-03-14 12:50:08,576 - Restored: SY SDAUR_Question Bank_All Units.pdf to Document Files
+2026-03-14 12:50:08,577 - Restored: SY-Btech-NEP-2025-26.pdf to Document Files
+2026-03-14 12:50:08,577 - Restored: sy-fees-receipt.pdf to Document Files
+2026-03-14 12:50:08,578 - Restored: Syllabus+for+100+Days+of+Python (1).pdf to Document Files
+2026-03-14 12:50:08,578 - Restored: Syllabus+for+100+Days+of+Python.pdf to Document Files
+2026-03-14 12:50:08,579 - Restored: Syllabus-Digital-Marketing.pdf to Document Files
+2026-03-14 12:50:08,580 - Restored: Syllabus-IOT.pdf to Document Files
+2026-03-14 12:50:08,580 - Restored: Technology-Infusion-Grand-Challenge-2026-Brochure.pdf to Document Files
+2026-03-14 12:50:08,581 - Restored: topperworld_in.pdf to Document Files
+2026-03-14 12:50:08,582 - Restored: U.V CS8391 Data Structures.pdf to Document Files
+2026-03-14 12:50:08,583 - Restored: UCEF.pdf to Document Files
+2026-03-14 12:50:08,584 - Restored: UG-ASH-AIML-24-25.pdf to Document Files
+2026-03-14 12:50:08,584 - Restored: Unit 1 & Unit 2 Business Storytelling.pptx.pdf to Document Files
+2026-03-14 12:50:08,585 - Restored: Unit 2_ Management_Trends_and_Practices_PPT_Dr. Brijesh.pdf to Document Files
+2026-03-14 12:50:08,585 - Restored: Unit 2_Theory.pdf to Document Files
+2026-03-14 12:50:08,586 - Restored: Unit 3 NOTES.pdf to Document Files
+2026-03-14 12:50:08,587 - Restored: Unit 3 _ Business Economics – The Road Map.pdf to Document Files
+2026-03-14 12:50:08,587 - Restored: UNIT 3.pdf to Document Files
+2026-03-14 12:50:08,588 - Restored: unit 6_1to9_22to27.pdf to Document Files
+2026-03-14 12:50:08,589 - Restored: Unit-1 Question Bank For NN.pdf to Document Files
+2026-03-14 12:50:08,591 - Restored: unit5.pdf to Document Files
+2026-03-14 12:50:08,592 - Restored: unit6_10to21.pdf to Document Files
+2026-03-14 12:50:08,593 - Restored: Untitled document.pdf to Document Files
+2026-03-14 12:50:08,593 - Restored: Vaccine Hesitancy YRC'25 Research Paper.docx to Document Files
+2026-03-14 12:50:08,594 - Restored: Vaccine Hesitancy YRC'25 Research Paper.docx (1).pdf to Document Files
+2026-03-14 12:50:08,594 - Restored: Vaccine Hesitancy YRC'25 Research Paper.docx.pdf to Document Files
+2026-03-14 12:50:08,595 - Restored: Vaccine Hesitancy YRC'25 Research Paper_Final.docx.pdf to Document Files
+2026-03-14 12:50:08,596 - Restored: Vaccine_Hesitancy_Prediction_Based_on_Machine_Lear.pdf to Document Files
+2026-03-14 12:50:08,596 - Restored: vensim.pdf to Document Files
+2026-03-14 12:50:08,597 - Restored: YRC_VaccineHesitancy.pptx.pdf to Document Files
+2026-03-14 12:50:08,598 - Restored: YRC_VaccineHesitancy_Final!.pptx (1).pdf to Document Files
+2026-03-14 12:50:08,599 - Restored: YRC_VaccineHesitancy_Final!.pptx.pdf to Document Files
+2026-03-14 12:50:08,600 - Restored: YRC_VaccineHesitancy_Final.pptx (1).pdf to Document Files
+2026-03-14 12:50:08,600 - Restored: YRC_VaccineHesitancy_Final.pptx.pdf to Document Files
+2026-03-14 12:50:08,601 - Restored: [BDA]bjahagir_MiniProject.docx to Document Files
+2026-03-14 12:50:08,618 - Removed folder: Document Files
