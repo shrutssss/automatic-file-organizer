@@ -1,6 +1,16 @@
 import os
 import shutil 
+import logging
 from config import file_types
+
+logging.basicConfig(
+    level = logging.INFO
+    format = "%(asctime)s - %(message)s"
+    handlers = [
+        logging.FileHandler("organzier.log")
+        logging.StreamHandler()
+    ]
+)
 
 def categorize_files(filename):
     name, extension = os.path.splitext(filename)
