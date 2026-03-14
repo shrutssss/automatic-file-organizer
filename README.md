@@ -1,27 +1,28 @@
 # Automatic File Organizer
 
-A Python script that automatically organizes files in any folder (e.g. Downloads) into categorized subfolders based on file extension.
+A Python script that automatically organizes files in any folder into categorized subfolders based on file extension. Supports undo to restore all files back to their original location.
 
 ---
 
 ## Features
 
-- Automatically categorizes files into folders like `Image Files`, `Document Files`, `Video Files`, etc.
-- Handles 11 file categories and 40+ file extensions
-- Logs every action to the terminal and to `organizer.log`
-- Skips subfolders — only processes files
-- Puts unrecognized files into a `Miscellaneous` folder
+- Scans any folder and categorizes files by extension
+- Moves files into labeled subfolders automatically
+- Supports undo — restores all files back to the root folder
+- Logs every action to the terminal and to a .log file
+- Handles 40+ file extensions across 11 categories
+- Defensive input handling for invalid or malformed paths
 
 ---
 
 ## Project Structure
-
 ```
 file-organizer/
-├── organizer.py    # Main script — scans and moves files
-├── config.py       # File type categories and extensions
-├── organizer.log   # Auto-generated log file after first run
-└── README.md       # Project documentation
+├── organizer.py       # Main script — organizes and undoes
+├── config.py          # File type categories and extensions
+├── organizer.log      # Auto-generated log file after first run
+├── TDD.md             # Technical Design Document
+└── README.md          # Project documentation
 ```
 
 ---
@@ -29,76 +30,88 @@ file-organizer/
 ## How to Run
 
 ### 1. Clone the repository
-```bash
+```
 git clone https://github.com/your-username/file-organizer.git
 cd file-organizer
 ```
 
-### 2. Update the folder path
-Open `organizer.py` and change the path at the bottom to your target folder:
-```python
-if __name__ == "__main__":
-    organize_folder(r"C:\Users\YourName\Downloads")  # Windows
-    # organize_folder("/home/yourname/Downloads")    # Mac/Linux
+### 2. Run the script
+```
+python organizer.py
 ```
 
-### 3. Run the script
-```bash
-python organizer.py
+### 3. Follow the prompts
+```
+Enter folder path: C:\Users\YourName\Downloads
+Type 'organize' or 'undo': organize
 ```
 
 ---
 
-## 📂 File Categories
+## Undo / Restore
+
+If you want to reverse the organization and move all files back to the original folder, run the script and choose undo at the prompt:
+```
+Enter folder path: C:\Users\YourName\Downloads
+Type 'organize' or 'undo': undo
+```
+
+The script will move every file from the category subfolders back to the root folder and remove the now-empty subfolders.
+
+Note: if two files from different categories share the same filename, one may overwrite the other during restore. This is an edge case and rarely occurs in practice.
+
+---
+
+## File Categories
 
 | Category | Extensions |
 |---|---|
-| Text Files | `.txt`, `.rtf`, `.md` |
-| Document Files | `.doc`, `.docx`, `.pdf`, `.odt` |
-| Spreadsheet Files | `.xls`, `.xlsx`, `.csv`, `.ods` |
-| Presentation Files | `.ppt`, `.pptx`, `.odp` |
-| Image Files | `.jpg`, `.jpeg`, `.png`, `.gif`, `.bmp`, `.tiff`, `.svg` |
-| Audio Files | `.mp3`, `.wav`, `.aac`, `.flac`, `.ogg` |
-| Video Files | `.mp4`, `.avi`, `.mov`, `.mkv`, `.wmv` |
-| Programming Files | `.py`, `.c`, `.cpp`, `.java`, `.js`, `.html`, `.css` |
-| Archive Files | `.zip`, `.rar`, `.7z`, `.tar`, `.gz` |
-| Database Files | `.sql`, `.db`, `.sqlite`, `.mdb` |
-| Executable Files | `.exe`, `.bat`, `.sh` |
+| Text Files | .txt, .rtf, .md |
+| Document Files | .doc, .docx, .pdf, .odt |
+| Spreadsheet Files | .xls, .xlsx, .csv, .ods |
+| Presentation Files | .ppt, .pptx, .odp |
+| Image Files | .jpg, .jpeg, .png, .gif, .bmp, .tiff, .svg |
+| Audio Files | .mp3, .wav, .aac, .flac, .ogg |
+| Video Files | .mp4, .avi, .mov, .mkv, .wmv |
+| Programming Files | .py, .c, .cpp, .java, .js, .html, .css |
+| Archive Files | .zip, .rar, .7z, .tar, .gz |
+| Database Files | .sql, .db, .sqlite, .mdb |
+| Executable Files | .exe, .bat, .sh |
 | Miscellaneous | Everything else |
 
 ---
 
-## 📋 Sample Log Output
-
+## Sample Log Output
 ```
-2025-01-14 10:23:01 - Moved: resume.pdf → Document Files
-2025-01-14 10:23:01 - Moved: photo.jpg → Image Files
-2025-01-14 10:23:01 - Moved: project.zip → Archive Files
+2025-01-14 10:23:01 - Moved: resume.pdf to Document Files
+2025-01-14 10:23:01 - Moved: photo.jpg to Image Files
+2025-01-14 10:23:01 - Moved: project.zip to Archive Files
 2025-01-14 10:23:01 - Skipped: Image Files (not a file)
+2025-01-14 10:23:01 - Restored: resume.pdf to Document Files
+2025-01-14 10:23:01 - Removed folder: Document Files
 ```
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - Python 3.x
-- No external libraries needed — uses only built-in modules (`os`, `shutil`, `logging`)
+- No external libraries — uses only built-in modules (os, shutil, logging)
 
 ---
 
-## 🔧 Customization
+## Customization
 
-To add new file categories or extensions, simply edit `config.py`:
-
+To add new file categories or extensions, edit config.py:
 ```python
 file_types = {
     "3D Files": [".obj", ".stl", ".fbx"],
-    # add more categories here...
+    # add more categories here
 }
 ```
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-Built by Shruti Jahagirdar.
+Built by Shruti Vasudev Jahagirdar.
